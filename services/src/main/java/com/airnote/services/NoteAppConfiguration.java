@@ -57,7 +57,7 @@ public class NoteAppConfiguration {
     }
 
     @Bean(name ={"sendGrid"})
-    SendGrid sendGridEmail() { return new SendGrid("mrugen.deshmukh@sjsu.edu" ,"airnote@123");}
+    SendGrid sendGridEmail() { return new SendGrid("test@gmail.com" ,"test
 
 }
 
